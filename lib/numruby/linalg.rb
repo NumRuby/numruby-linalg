@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "linalg/version"
+require_relative 'linalg/version'
 
 module Numruby
   module Linalg
